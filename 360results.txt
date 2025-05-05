@@ -47,13 +47,13 @@
 
 #四川,#genre#
 
-#云南,#genre#
-
 #西藏,#genre#
 
-#甘肃,#genre#
+#云南,#genre#
 
 #陕西,#genre#
+
+#甘肃,#genre#
 
 #青海,#genre#
 
