@@ -35,17 +35,17 @@
 
 #湖北,#genre#
 
-#广东,#genre#
-
 #湖南,#genre#
+
+#广东,#genre#
 
 #广西,#genre#
 
 #海南,#genre#
 
-#贵州,#genre#
-
 #四川,#genre#
+
+#贵州,#genre#
 
 #西藏,#genre#
 
